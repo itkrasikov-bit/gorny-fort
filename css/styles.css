@@ -1664,6 +1664,12 @@ select:disabled { opacity: .5; cursor: not-allowed; }
   font-size: 11.5px;
   color: var(--dim);
 }
+.footer-legal { display: grid; gap: 3px; }
+.footer-credit {
+  font-size: 10.5px;
+  letter-spacing: .02em;
+  color: #666f60;
+}
 
 /* ---------- mobile CTA ---------- */
 .mobile-cta {
