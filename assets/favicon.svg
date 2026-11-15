@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Горный Форт">
+  <defs>
+    <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb020"/>
+      <stop offset="1" stop-color="#f26200"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0d100b"/>
+  <path d="M32 5.5 56 15v19.4c0 12.7-9.9 21.3-24 25.4C17.9 55.7 8 47.1 8 34.4V15L32 5.5Z" fill="#161b12" stroke="url(#orange)" stroke-width="2.2"/>
+  <path d="M12 43.5 26.6 21.4l6.5 9.6 4.8-6.4L52 43.5H12Z" fill="url(#orange)"/>
+  <path d="m24.3 27.8 2.3-6.4 4.6 6.9 1.9-2.6 4.4 6.1-6.3 1.5-6.9-5.5Z" fill="#ffe2bb" opacity=".9"/>
+  <circle cx="44" cy="23" r="2.6" fill="#ffcf8a"/>
+</svg>
